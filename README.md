@@ -1,2 +1,2 @@
 # Ideal-Gas-Simulation
-Simple Ideal Gas simulation (WIP)
+Simple Ideal Gas simulation (WIP-ish)
